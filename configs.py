@@ -32,12 +32,12 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 🧑🏻‍💻 **Developer:** @AbirHasan2005
 
-👥 **Support Group:** [Linux Repositories](https://t.me/Quality_Links)
+👥 **Support Group:** [Linux Repositories](https://t.me/DevsZone)
 
 📢 **Updates Channel:** [Discovery Projects](https://t.me/Quality_Links)
 """
 	ABOUT_DEV_TEXT = f"""
-🧑🏻‍💻 **Developer:** @Quality_Links
+🧑🏻‍💻 **Developer:** @AbirHasan2005
 
 Developer is Super Noob. Just Learning from Official Docs. Please Donate the developer for Keeping the Service Alive.
 
