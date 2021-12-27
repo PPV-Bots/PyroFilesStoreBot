@@ -37,7 +37,7 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 📢 **Updates Channel:** [Discovery Projects](https://t.me/Quality_Links)
 """
 	ABOUT_DEV_TEXT = f"""
-🧑🏻‍💻 **Developer:** @AbirHasan2005
+🧑🏻‍💻 **Developer:** @Quality_Links
 
 Developer is Super Noob. Just Learning from Official Docs. Please Donate the developer for Keeping the Service Alive.
 
