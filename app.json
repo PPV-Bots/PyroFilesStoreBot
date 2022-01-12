@@ -8,8 +8,8 @@
         "bot"
     ],
     "repository": "https://github.com/PPV-Bots/Files-Store-Bot",
-    "website": "https://telegram.dog/Quality_Links",
-    "success_url": "https://t.me/Quality_Links",
+    "website": "https://telegram.dog/Join_PadamPakalamVaanga",
+    "success_url": "https://t.me/Join_PadamPakalamVaanga",
     "env": {
         "API_ID": {
             "description": "Get this value from my.telegram.org or @TeleORG_Bot"
