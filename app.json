@@ -1,13 +1,13 @@
 {
     "name": "Telegram Files Store Bot",
-    "description": "A Telegram Files Store Bot in Pyrogram by @Quality_Links",
+    "description": "A Telegram Files Store Bot in Pyrogram by  @TeamPadamPakalamVaanga",
     "keywords": [
         "telegram",
         "files",
         "store",
         "bot"
     ],
-    "repository": "https://github.com/CViji/PyroFilesStoreBot",
+    "repository": "https://github.com/PPV-Bots/Files-Store-Bot",
     "website": "https://telegram.dog/Quality_Links",
     "success_url": "https://t.me/Quality_Links",
     "env": {
