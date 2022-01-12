@@ -38,11 +38,8 @@ This is Telegram Parmanent Files Store Bot by [@Quality_Links](https://github.co
 - `BANNED_CHAT_IDS` - All Banned Channel IDs *(Optional)*
 	- Put all banned channel IDs & Separate with space.
 
-### Video Tutorial:
-[![YouTube](https://img.shields.io/badge/YouTube-Video%20Tutorial-red?logo=youtube)](https://youtu.be/hHu2RaePhwI)
-
 ### Deploy Now:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CViji/PyroFilesStoreBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PPV-Bots/Files-Store-Bot)
 
 ## Commands:
 ```
@@ -62,12 +59,4 @@ banned_users - Get All Banned Users [Owner Only]
 <p align="left">
 <a href="https://github.com/AbirHasan2005"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
 </p>
-<p align="left">
-<a href="https://twitter.com/AbirHasan2005"><img src="https://img.shields.io/badge/Twitter-Follow%20on%20Twitter-informational.svg?logo=twitter"></a>
-</p>
-<p align="left">
-<a href="https://facebook.com/AbirHasan2005"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a>
-</p>
-<p align="left">
-<a href="https://instagram.com/AbirHasan2005"><img src="https://img.shields.io/badge/Instagram-Follow%20on%20Instagram-important.svg?logo=instagram"></a>
-</p>
+
