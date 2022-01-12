@@ -30,8 +30,6 @@ Send me any file I will save it in my Database. I will add Save Uploaded File in
 
 📡 **Hosted on:** [Heroku](https://heroku.com)
 
-🧑🏻‍💻 **Developer:** @AbirHasan2005
-
 👥 **Support Group:** [Linux Repositories](https://t.me/TeamPadamPakalamVaanga)
 
 📢 **Updates Channel:** [Discovery Projects](https://t.me/Join_PadamPakalamVaanga)
