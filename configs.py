@@ -20,7 +20,7 @@ class Config(object):
 	OTHER_USERS_CAN_SAVE_FILE = bool(os.environ.get("OTHER_USERS_CAN_SAVE_FILE", True))
 	ABOUT_BOT_TEXT = f"""
 This is Permanent Files Store Bot!
-Send me any file I will save it in my Database. Also works for channel. Add me to channel as Admin with Edit Permission, I will add Save Uploaded File in Channel & add Sharable Button Link.
+Send me any file I will save it in my Database. I will add Save Uploaded File in Channel & add Sharable Button Link.
 
 🤖 **My Name:** [Files Store Bot](https://t.me/{BOT_USERNAME})
 
@@ -32,9 +32,9 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 🧑🏻‍💻 **Developer:** @AbirHasan2005
 
-👥 **Support Group:** [Linux Repositories](https://t.me/Quality_Links)
+👥 **Support Group:** [Linux Repositories](https://t.me/TeamPadamPakalamVaanga)
 
-📢 **Updates Channel:** [Discovery Projects](https://t.me/Quality_Links)
+📢 **Updates Channel:** [Discovery Projects](https://t.me/Join_PadamPakalamVaanga)
 """
 	ABOUT_DEV_TEXT = f"""
 🧑🏻‍💻 **Developer:** @AbirHasan2005
@@ -43,7 +43,7 @@ Developer is Super Noob. Just Learning from Official Docs. Please Donate the dev
 
 Also remember that developer will Delete Adult Contents from Database. So better don't Store Those Kind of Things.
 
-[Donate Now](https://www.paypal.me/AbirHasan2005) (PayPal)
+[Donate Now](r.aswin2020@oksbi) (Gpay)
 """
 	HOME_TEXT = """
 Hi, [{}](tg://user?id={})\n\nThis is Permanent **File Store Bot**.
