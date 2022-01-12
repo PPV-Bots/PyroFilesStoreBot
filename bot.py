@@ -73,8 +73,8 @@ async def start(bot: Client, cmd: Message):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("Support Group", url="https://t.me/Quality_Links"),
-                        InlineKeyboardButton("Bots Channel", url="https://t.me/Quality_Links")
+                        InlineKeyboardButton("Bots Group", url="https://t.me/TeamPadamPakalamVaanga"),
+                        InlineKeyboardButton("Bots Channel", url="https://t.me/Join_PadamPakalamVaanga")
                     ],
                     [
                         InlineKeyboardButton("About Bot", callback_data="aboutbot"),
@@ -120,7 +120,7 @@ async def main(bot: Client, message: Message):
                 return
 
         if message.from_user.id in Config.BANNED_USERS:
-            await message.reply_text("Sorry, You are banned!\n\nContact [Support Group](https://t.me/Quality_Links)",
+            await message.reply_text("Sorry, You are banned!\n\nContact [Bots Group](https://t.me/TeamPadamPakalamVaanga)",
                                      disable_web_page_preview=True)
             return
 
@@ -319,7 +319,7 @@ async def button(bot: Client, cmd: CallbackQuery):
                 [
                     [
                         InlineKeyboardButton("Source Codes of Bot",
-                                             url="https://github.com/CViji/PyroFilesStoreBot")
+                                             url="")
                     ],
                     [
                         InlineKeyboardButton("Go Home", callback_data="gotohome"),
