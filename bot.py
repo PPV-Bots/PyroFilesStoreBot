@@ -319,7 +319,7 @@ async def button(bot: Client, cmd: CallbackQuery):
                 [
                     [
                         InlineKeyboardButton("Source Codes of Bot",
-                                             url="")
+                                             url="https://github.com/PPV-Bots/PyroFilesStoreBot")
                     ],
                     [
                         InlineKeyboardButton("Go Home", callback_data="gotohome"),
@@ -338,7 +338,7 @@ async def button(bot: Client, cmd: CallbackQuery):
                 [
                     [
                         InlineKeyboardButton("Source Codes of Bot",
-                                             url="https://github.com/CViji/PyroFilesStoreBot")
+                                             url="https://github.com/PPV-Bots/PyroFilesStoreBot")
                     ],
                     [
                         InlineKeyboardButton("About Bot", callback_data="aboutbot"),
@@ -356,8 +356,8 @@ async def button(bot: Client, cmd: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("Support Group", url="https://t.me/Quality_Links"),
-                        InlineKeyboardButton("Bots Channel", url="https://t.me/Quality_Links")
+                        InlineKeyboardButton("Bots Group", url="https://t.me/TeamPadamPakalamVaanga"),
+                        InlineKeyboardButton("Bots Channel", url="https://t.me/Join_PadamPakalamVaanga")
                     ],
                     [
                         InlineKeyboardButton("About Bot", callback_data="aboutbot"),
@@ -377,7 +377,7 @@ async def button(bot: Client, cmd: CallbackQuery):
                 user = await bot.get_chat_member(channel_chat_id, cmd.message.chat.id)
                 if user.status == "kicked":
                     await cmd.message.edit(
-                        text="Sorry Sir, You are Banned to use me. Contact my [Support Group](https://t.me/Quality_Links).",
+                        text="Sorry Sir, You are Banned to use me. Contact my [Bots Group](https://t.me/TeamPadamPakalamVaanga).",
                         parse_mode="markdown",
                         disable_web_page_preview=True
                     )
@@ -402,7 +402,7 @@ async def button(bot: Client, cmd: CallbackQuery):
                 return
             except Exception:
                 await cmd.message.edit(
-                    text="Something went Wrong. Contact my [Support Group](https://t.me/Quality_Links).",
+                    text="Something went Wrong. Contact my [Bots Group](https://t.me/TeamPadamPakalamVaanga).",
                     parse_mode="markdown",
                     disable_web_page_preview=True
                 )
@@ -414,8 +414,8 @@ async def button(bot: Client, cmd: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("Support Group", url="https://t.me/Quality_Links"),
-                        InlineKeyboardButton("Bots Channel", url="https://t.me/Quality_Links")
+                        InlineKeyboardButton("Bots Group", url="https://t.me/TeamPadamPakalamVaanga"),
+                        InlineKeyboardButton("Bots Channel", url="https://t.me/Join_PadamPakalamVaanga")
                     ],
                     [
                         InlineKeyboardButton("About Bot", callback_data="aboutbot"),
